@@ -1,7 +1,7 @@
 
 
 #project name
-PROJECT_NAME := aiRpi 
+PROJECT_NAME := aiRpi_project 
 
 #location of the buildroot sources
 MAKEARGS := -C $(CURDIR)/buildroot 
